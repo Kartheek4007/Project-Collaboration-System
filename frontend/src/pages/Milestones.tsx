@@ -4,10 +4,7 @@ import {
     Plus,
     Flag,
     Calendar,
-    CheckCircle2,
-    AlertCircle,
-    ChevronRight,
-    Search
+    CheckCircle2
 } from 'lucide-react';
 import { collabApi, projectApi } from '../services/api';
 
